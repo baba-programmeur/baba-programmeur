@@ -1,23 +1,23 @@
 ![FulbertGato](https://github.com/FulbertGato/FulbertGato/blob/main/twitter-min.jpg)
 
-<h1 align="center">Salut 👋, Je suis Fulbert Gato</h1>
-<h3 align="center">Dévéloppeur Web et Mobile</h3>
+<h1 align="center">Salut 👋, Je suis Lamine </h1>
+<h3 align="center">Dévéloppeur et Analyste de donnees</h3>
 
-Jeune professionnel dans le web, je suis quelqu’un de sérieux, appliquer et organiser dans les projets que j’entreprends.
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@FulbertGato](https://twitter.com/FulbertGato/) ou à me donner un peu de ♥ sur [mail](mailto:gatojunior.co@gmail.com). N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
+Je suis un jeune professionnel,je suis quelqu’un de sérieux, appliquer et organiser dans les projets que j’entreprends.
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler au 77 167 12 73 ou à me contacter sur [mail](mailto:laminefaty5261@gmail.com).
 
 <details>
     <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
 
-    - 🔭 Je travaille actuellement sur [Online order Food](https://github.com/https://github.com/FulbertGato)
+        - 🔭 Je travaille actuellement sur [U]([https://github.com/https://github.com/FulbertGato](https://upay.africa/upaybusiness/))
 
-    - 🌱 J'apprends actuellement **Symfony, Laravel, Javascript, Java, Docker, C#, Flutter,**
+    - 🌱 Je travaille avec les technologies  **Spring Boot, Angular, Javascript, Java, SQL,MDX**
 
     - 👯 Je partage aussi sur [GitLab](https://gitlab.com/gatojunior)
 
-    - 👨‍💻 Tous mes projets sont disponibles sur [GITHUB](https://github.com/FulbertGato?tab=repositories)
+    - 👨‍💻 Tous mes projets sont disponibles sur [GITHUB](https://github.com/baba-programmeur)
 
-    - 📫 Comment me joindre **gatojunior.co@gmail.com**
+    - 📫 Comment me joindre **laminefaty5261@gmail.com**
 
     - ⚡ Fun fact **je suis un mec sympa ;)**
 
